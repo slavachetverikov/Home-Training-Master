@@ -1,0 +1,969 @@
+{
+  "cart": [],
+  "items": [
+    {
+      "id": 1,
+      "title": "10-Minute Cardio Jump",
+      "imageSrc": "https://images.unsplash.com/photo-1483721310020-03333e577078?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1856&q=80",
+      "duration": "ten_minutes",
+      "brief1": "This 10-minute cardio jump workout will help you burn MAJOR calories. Get ready to jump around, because this plyometric jumping workout will get your heart rate up! Jumping exercises are anaerobic exercises that involve quick bursts of energy. This is a small training but it massively helps you to cope with sedentuary lifestyle.",
+      "brief2": "Jumping improves heart health. It improves overall cardiovascular functioning!",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=eqjZeX3F2nA"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw04f5b4e6/images/redesign/hero-banner/HomepageBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Jumping requires no equipment or any specialized gear. Thus, it can be a part of a home-based exercise routine. If you travel often, you don’t need to carry any weights or other gear with you. You can perform a jumping workout in a small space whenever and wherever you want."
+        },
+        {
+          "type": "text",
+          "text": "Jumping builds strength and improves muscle tone. Jumping exercises such as rope jumping and jumping jacks are great for your upper and lower body."
+        },
+        {
+          "type": "text",
+          "text": "Jumping is an excellent calorie-burner. It helps you dig into the fat-burning zone. Your body stores energy as fat. Jumping helps utilize glycogen (stored carbohydrates) and fat reserves. The number of calories burned during jumping depends on the person’s weight, jumping speed and duration of the workout."
+        },
+        {
+          "type": "text",
+          "text": "On average, a 150-pound person doing jumping jacks at a slow pace will burn about 100 calories in 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "30-Minute Tabata Session",
+      "imageSrc": "https://i.ytimg.com/vi/bgdb5QgI9aU/maxresdefault.jpg",
+      "duration": "thirty_minutes",
+      "brief1": "This calorie-torching cardio and sculpting workout is one of our hardest ever, but Equinox Tabata instructor Raneir Pollard's amazing energy will inspire you to fight for it. Tabata is a form of high intensity interval training that alternates between 20 seconds of intense bursts of work and 10 seconds of rest in four-minute rounds.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=XIeCMhNWFQQ"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Tabata training was discovered by Japanese scientist Dr. Izumi Tabata and a team of researchers from the National Institute of Fitness and Sports in Tokyo. Tabata and his team conducted research on two groups of athletes."
+        },
+        {
+          "type": "text",
+          "text": "The first group trained at a moderate intensity level while the second group trained at a high-intensity level. The moderate intensity group worked out five days a week for a total of six weeks; each workout lasted one hour. "
+        },
+        {
+          "type": "text",
+          "text": "The high-intensity group worked out four days a week for six weeks; each workout lasted four minutes and 20 seconds (with 10 seconds of rest in between each set). The results; Group 1 had increased their aerobic system (cardiovascular), but showed little or no results for their anaerobic system (muscle). Group 2 showed much more increase in their aerobic system than Group 1, and increased their anaerobic system by 28 percent. In conclusion, high-intensity interval training has more impact on both the aerobic and anaerobic systems."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "15-Minute Calming Yoga ",
+      "imageSrc": "https://images.unsplash.com/photo-1632421813881-367806e9e66d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2896&q=80",
+      "duration": "fifteen_minutes",
+      "brief1": "Join instructor Nikki Nie for a calming yoga flow that will help you relax and release the stress of the day. Do something kind for yourself by taking just 15 minutes out of your day to get centered in mind and body. Nikki will lead you through a simple set of yoga movements to soothe the tension held in your muscles.",
+      "brief2": "Calm Your Mind With This 15-Minute Soothing Yoga Flow!",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=dwa2KHEW2_4"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://pngimg.com/uploads/yoga/yoga_PNG70.png"
+        },
+        {
+          "type": "text",
+          "text": "Yoga is considered one of many types of complementary and integrative medicine approaches. Yoga brings together physical and mental disciplines that may help you achieve peacefulness of body and mind. This can help you relax and manage stress and anxiety."
+        },
+        {
+          "type": "text",
+          "text": "Yoga has many styles, forms and intensities. Hatha yoga, in particular, may be a good choice for stress management. Hatha is one of the most common styles of yoga, and beginners may like its slower pace and easier movements. But most people can benefit from any style of yoga — it's all about your personal preferences."
+        },
+        {
+          "type": "text",
+          "text": "Every person has a different body with different abilities. You may need to modify yoga postures based on your individual abilities. Your instructor may be able to suggest modified poses. Choosing an instructor who is experienced and who understands your needs is important to safely and effectively practice yoga. Regardless of which type of yoga you practice, you don't have to do every pose if it's uncomfortable for you."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "30-Minute Cardio Dance Workout",
+      "imageSrc": "https://images.pexels.com/photos/5654949/pexels-photo-5654949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "thirty_minutes",
+      "brief1": "Ain't no party like a cardio dance party, especially when you're working out with Nicole Steen! A cardio dance expert at Equinox, she knows how to keep you moving. This workout is so fun, you'll likely forget you're working out. Press play and get ready to shake it.",
+      "brief2": "In short, you really will have no excuses for not sticking with it. Dance bring serious benefits to both mind and body! ",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=IdBESRDwo_8"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Get ready to hit the dance floor! Dancing is a whole-body workout that's actually fun. It's good for your heart, it makes you stronger, and it can help with balance and coordination. A 30-minute dance class burns between 130 and 250 calories, about the same as jogging. Sign up for a class."
+        },
+        {
+          "type": "text",
+          "text": "Your teacher will lead you through a series of choreographed steps. The focus might be on the footwork, but the series of leaps, turns, shimmies, and cha-chas engage the entire body. There are lots of options. With dance-inspired workouts ranging from ballroom and ballet to hip hop and club dance classes, you’ll never be bored!"
+        },
+        {
+          "type": "text",
+          "text": "The intensity depends on the type of dance you choose. Fast-moving dance styles like hip hop and salsa are more intense than slower dances like the tango or waltz. All of them will use your whole body and will challenge your brain as you learn the choreography and form. Dancing is a fantastic activity if you have medical conditions such as heart disease, high cholesterol, or diabetes."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "5-Minute Ab Workout",
+      "imageSrc": "https://images.pexels.com/photos/5262853/pexels-photo-5262853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "five_minutes",
+      "brief1": "Squeeze in this super quick ab workout in just 5 minutes! Join trainer Julia Brown as she leads you through a routine that you can do anytime and anywhere. Burn out your core with moves like ab circles, flutter kicks, and rainbow planks. You'll power through these fast, but don't underestimate their effectiveness!",
+      "brief2": " ",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=-_s2j9gOrAw"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw712964a9/images/redesign/extra-links-girl-abb-workout.png"
+        },
+        {
+          "type": "text",
+          "text": "With the abs forming a large part of the central trunk of your body, connecting your upper and lower halves, strength is important. Luckily (and perhaps unsurprisingly), if you're doing ab exercises every day, you can expect your core to get stronger over time."
+        },
+        {
+          "type": "text",
+          "text": "The abdominals are made up of four main muscles: the rectus abdominis, the muscle on the front of our stomach which gives the six-pack effect; the external obliques, running down each side of our torso; the internal obliques, a pair of deep muscles below the external obliques; and the transversus abdominis, a deep muscle that wraps around the torso and helps with respiration and breathing."
+        },
+        {
+          "type": "text",
+          "text": "When you work out your abs, these muscles sustain tiny tears in the muscle fibers, which, when they rebuild during recovery, become stronger, according to Self. Over time, your muscles get more and more toned. As such, focusing on abs is a useful way to strengthen your core. That is, as long as you allow for adequate recovery and focus on exercises that target the four main muscles in your stomach, such as planks"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "10-Minute Tabata-Inspired Workout ",
+      "imageSrc": "https://www.esquireme.com/cloud/2021/09/09/tabata-workout_992343332.jpg",
+      "duration": "ten_minutes",
+      "brief1": "Join Supernatural coach Raneir Pollard for an interval workout that is perfect for those days when you're tight on time. Tabata sets are ideal for anyone who wants to try out interval training at any skill level. Get pumped with full-body moves like plank jacks, squat jumps, and ab rolls.",
+      "brief2": "You won't need any equipment for this 10-minute session, but don't be fooled, Raneir is still going to make you sweat!",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=zQoxUq-VcjQ"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://diyactive.com/wp-content/uploads/2016/08/BT-Featured.png"
+        },
+        {
+          "type": "text",
+          "text": "Tabata training (also called Tabata protocol) is a type of HIIT (high-intensity interval training). It originated in the research of Japanese scientist Dr. Izumi Tabata and his team from the National Institute of Fitness and Sports at Kagoshima Prefecture, Japan, on high-intensity exercise during the early 1990s."
+        },
+        {
+          "type": "text",
+          "text": "Their objective was to find out if short bursts of high-intensity exercise followed by shorter rests might condition the body better than a continuous moderate-intensity exercise."
+        },
+        {
+          "type": "text",
+          "text": "To determine this, they worked with two test groups—one doing moderately intense exercise and the other high-intense. Moderate-intensity exercising consisted of a one-hour workout, five days a week, for six weeks. The high-intensity exercising consisted of a four-minute workout, four days a week, for six weeks; each workout consisted of eight sets of 20 seconds of exercise at maximum effort each followed by a 10-second rest. To do the math: (8 x 20) + (8 x 10) = 240 seconds (4 minutes)."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "20-Minute Upper-Body Strength-Training Workout ",
+      "imageSrc": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "twenty_minutes",
+      "brief1": " Join fitness and mindset coach Victoria Brown for the ultimate upper-body workout. This session kicks off with a full-body warmup before leading into an upper-body-focused circuit you’ll repeat 3 times. You’ll work your arms through 5 exercises like squat to overhead press and triceps.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=2LWiGWtB_l4"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "If you’ve noticed that you can’t quite carry or lift things as well as you used to without your wrists, elbows, neck, and shoulders getting fatigued or sore, it might be time to increase your upper body strength."
+        },
+        {
+          "type": "text",
+          "text": "Having good upper body strength can help you accomplish many daily tasks with ease. Everything from simple tasks like opening a jar of pasta sauce, or more strenuous tasks like rearranging your furniture, require a significant amount of upper body strength. Carrying grocery bags, lifting boxes, carrying your kids, and doing yard work all require upper body strength to be performed well day after day without putting yourself at risk for injury from overuse. Often, people aren’t aware of their need for upper body training until injury or aggravation occurs."
+        },
+        {
+          "type": "text",
+          "text": "Apart from having the ability to perform daily tasks well, having a well-developed upper body musculature will help you increase your resting metabolism so your body burns more calories at rest."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "30-Minute Old-School Hip-Hop Grooves Workout",
+      "imageSrc": "https://images.pexels.com/photos/2240766/pexels-photo-2240766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "thirty_minutes",
+      "brief1": "It's time to groove it out with Luckie, creator of Old School Skinny. This throwback dance workout is perfect for all levels of dancers who want to get a serious sweat. You ready to push it? If you’ve ever taken a hip hop dance class before, you know what an awesome workout it is.",
+      "brief2": " ",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=NXZsoNEHz8w"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "If you’ve ever taken a hip hop dance class before, chances are you know what an awesome workout it is. In fact, many fitness enthusiasts say that hip hop is one of the best cardio workouts out there."
+        },
+        {
+          "type": "text",
+          "text": " Not only does this high energy dance class get the heart pumping, but it is a wonderful alternative to the typical types of fitness routines many of us are accustomed to. Similar to Zumba, hip hop has both aerobic and anaerobic benefits."
+        },
+        {
+          "type": "text",
+          "text": "This is because these classes increase your heart rate and get you breathing hard, while at the same time working to strengthen your thighs, glutes, calves, and other muscles throughout your whole body. Another bonus? Hip hop is a less impactful type of dance because it does not put as much weight and pressure on the feet and knees. Whether you are trying to find a group exercise class that fits with your schedule and will keep you coming back for more, or simply want to change up your typical gym routine, we encourage you to consider checking out a hip hop dance class. "
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "40-Minute Boxing & Kickboxing Workout",
+      "imageSrc": "https://images.pexels.com/photos/7045407/pexels-photo-7045407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "fourty_minutes",
+      "brief1": "Creator of Boxing & Bubbles Christa DiPaolo is back with her signature class, Sweat Box. Christa's encouraging and realistic take on life and fitness will make you feel like you're working out with your most supportive best friend who knows how to whip you into shape!",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=8CkUrkDP-v0"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Chris Kolba, a physical therapist with the Ohio State University Wexner Medical Center in Columbus, says there's a lot of overlap between the two Kickboxing and Boxing, but also a lot of differences."
+        },
+        {
+          "type": "text",
+          "text": "Basically, boxing only involves punching and the use of footwork for movement. Boxers are famous for dancing around the ring, but they only land punches with their hands. And boxers must land their punches on an opponent above the belt."
+        },
+        {
+          "type": "text",
+          "text": "In contrast, kickboxing combines punching with kicking and footwork. It can also include elbow and knee strikes, Kolba explains. There's also more flexibility with regard to where you can land your punches and kicks. Because it involves more lower body engagement, kickboxing can lead to a lot more full body contact with your sparring partner or the equipment you're working with. Plus, it works the lower body in different ways to traditional boxing – shifting your weight to a single foot and raising the leg to kick."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "30-Minute Dance and Cardio Kickboxing Workout",
+      "imageSrc": "https://images.pexels.com/photos/5370353/pexels-photo-5370353.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "thirty_minutes",
+      "brief1": "Get ready to PUSH your limits with this dance and cardio kickboxing workout from Joseph D. You're in for a killer workout, and Joseph's infectious energy will have you smiling while you kick, pop it, and squat. Get ready to sweat! Dancing is a great way to get your heart and breathing rate up!",
+      "brief2": "Dancing is a great way to get your heart and breathing rate up — and the higher the intensity, the tougher the workout. And cardio kickboxing is a good fitness choice for those looking to burn calories for weight loss, or to improve stamina and heart health.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=EcqYeThduWk"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "“A dance workout like any other workout that gets your heart-rate pumping, and has you sweating bullets by the end of it, is a good determinant of an effective cardio workout,” says  Annamaria Louloudis, M.S., R.D.N. Let's get up! keeps you moving for 30 to 35 minutes, so you get a solid workout. This type of cardio dance workout can burn up to 250 calories per half-hour."
+        },
+        {
+          "type": "text",
+          "text": "But dance may have a mental edge over some cardio activities like the elliptical and running. “With dance, you aren’t just moving in one direction for a long period of time like with running,” says Louloudis. So if you get bored easily on a treadmill, this type of workout could be for you."
+        },
+        {
+          "type": "text",
+          "text": "And cardio kickboxing workout provides an aerobic workout that burns calories and can help you lose weight. Research shows that elite and amateur kickboxers have more muscle mass and lower percentages of body fat. A person who weighs 155 pounds can burn 372 calories during just 30 minutes of kickboxing."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "20-Minute Cardio and Core Workout",
+      "imageSrc": "https://imgk.timesnownews.com/story/pexels-marta-wave-6453936.jpg?tr=w-1200,h-900",
+      "duration": "twenty_minutes",
+      "brief1": "Get ready to feel the burn with Rebecca Louise! This no-equipment workout has cardio moves to get your heart rate up and toning moves that will work every muscle of your core. If you love this workout, you can find more ways to sweat with Rebecca Louise on her Glow shop.",
+      "brief2": "Core exercises are an important part of a well-rounded fitness program. Aside from occasional situps and pushups, however, core exercises are often neglected.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=G1Fxt212VF8"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Core exercises train the muscles in your pelvis, lower back, hips and abdomen to work in harmony. This leads to better balance and stability, whether on the playing field or in daily activities. In fact, most sports and other physical activities depend on stable core muscles. Any exercise that involves the use of your abdominal and back muscles in coordinated fashion counts as a core exercise. For example, using free weights in a manner that involves maintaining a stable trunk can train and strengthen several of your muscles, including your core muscles."
+        },
+        {
+          "type": "text",
+          "text": "You may also try several specific core exercises to stabilize and strengthen your core. Some examples of core exercises include planks, situps and fitness ball exercises."
+        },
+        {
+          "type": "text",
+          "text": "A bridge is another example of a classic core exercise. Lie on your back with your knees bent. Keep your back in a neutral position, not arched and not pressed into the floor. Avoid tilting your hips. Tighten your abdominal muscles. Raise your hips off the floor until your hips are aligned with your knees and shoulders!"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "30-Minute Yoga With Adriene to Reduce Stress",
+      "imageSrc": "https://images.pexels.com/photos/4327033/pexels-photo-4327033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "thirty_minutes",
+      "brief1": "Get ready to de-stress with this relaxing yoga series from Yoga With Adriene. Yoga improves strength, balance and flexibility. Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength. Get ready for muscle relaxation!",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=q2G5ZX0JgvQ"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Yoga is considered one of many types of complementary and integrative medicine approaches. Yoga brings together physical and mental disciplines that may help you achieve peacefulness of body and mind. This can help you relax and manage stress and anxiety."
+        },
+        {
+          "type": "text",
+          "text": "Yoga has many styles, forms and intensities. Hatha yoga, in particular, may be a good choice for stress management. Hatha is one of the most common styles of yoga, and beginners may like its slower pace and easier movements. But most people can benefit from any style of yoga — it's all about your personal preferences."
+        },
+        {
+          "type": "text",
+          "text": "Every person has a different body with different abilities. You may need to modify yoga postures based on your individual abilities. Your instructor may be able to suggest modified poses. Choosing an instructor who is experienced and who understands your needs is important to safely and effectively practice yoga. Regardless of which type of yoga you practice, you don't have to do every pose if it's uncomfortable for you."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "10-Minute Ab-Focused Workout With Jake DuPree",
+      "imageSrc": "https://images.pexels.com/photos/866023/pexels-photo-866023.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "ten_minutes",
+      "brief1": "Yes, this workout is only 10 minutes, but let's be honest, it only takes 2 minutes to feel the burn in a Jake DuPree workout. Expect moves like roll-ups, leg raises, and side planks to work your core in different ways. Make this quick session even more challenging by adding a pair of light.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=tQkM6-4G0O8"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Your abdominals act as an anchor for muscles of the mid and lower back. If your abs are weak, it forces the back muscles to work harder to support your middle, according to the Cleveland Clinic. Abdominal strength improves the endurance of the muscles of your back so you fatigue less easily and are less vulnerable to strain or injury."
+        },
+        {
+          "type": "text",
+          "text": "Strong abs also keep your belly from protruding too far forward and altering your center of gravity. If your abs are weak — especially if you're overweight — this forward lean stresses your back."
+        },
+        {
+          "type": "text",
+          "text": "Strong abs help prevent an exaggerated anterior tilt to the pelvis. If you have this pelvic tilt, you may experience too much pressure on the lower back's discs and facet joints, flexible points that enable your back to bend. This pressure often leads to weakness, pain and potential rupture. Strong abs keep your vertebrae in alignment to prevent such deterioration."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "20-Minute Upper-Body Workout Inspired by Abby Wambach",
+      "imageSrc": "https://manofmany.com/wp-content/uploads/2020/05/7-minute-workout.jpg",
+      "duration": "twenty_minutes",
+      "brief1": "This workout led by trainer Lita Lewis will feature exercises to keep your upper body strong. Inspired by the real-life workout routine of soccer champion Abby Wambach, this session is ideal for anyone looking for a new go-to arm workout.",
+      "brief2": "Grab a pair of dumbbells and get ready to work your arms, back, and shoulders. ",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=e3APYNpzWKI"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "A strong back is essential for good posture. A large percentage of the population live very sedentary lives, either through being hunched over a computer, plonked behind a desk or sat at the wheel of a car all day. As a result, most suffer from posterior imbalances. The chest muscles tighten, the back muscles weaken and the shoulders round forward (a condition known as kyphosis). Strengthening the muscles in the back encourages you to hold your shoulders back. It also improves your core strength, forcing the body to sit up tall."
+        },
+        {
+          "type": "text",
+          "text": "Improving your upper-body strength can also help your ability in other workouts. The majority of HIIT workouts and circuit classes contain upper-body exercises, such as planks, press-ups or mountain climbers, which require a good base level of upper-body strength. By strengthening your upper body, you will be able to make the most out of these workouts without having to regress the movements."
+        },
+        {
+          "type": "text",
+          "text": "Throughout this workout, Lita will be taking Gatorade Zero breaks to stay hydrated!"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "30-Minute Cardio Dance Workout",
+      "imageSrc": "https://miro.medium.com/max/2000/1*9FdPPz3M9cpw_JmJCbDeOg.jpeg",
+      "duration": "thirty_minutes",
+      "brief1": "Dance away calories with this hip-hop Tabata from Keaira LaShae. Tuck jumps have never been so fun. There are many forms of dance, from ballroom to barn dancing and disco to Morris dancing. Dancing is an enjoyable way to be more physically active and stay fit.",
+      "brief2": "Dance has always been a part of human culture, rituals and celebrations. Today, most dancing is about recreation and self-expression, although it can also be done as a competitive activity.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=kwkXyHjgoDM"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "You can dance in a group, with a partner, or on your own. There are lots of different places where you can enjoy dancing, for example, at dance schools, social venues, community halls and in your own home. Dancing has become such a popular way to be active and keep fit, that most fitness clubs now offer dance classes in their group exercise programs."
+        },
+        {
+          "type": "text",
+          "text": "Dancing can be done both competitively and socially. It can be a great recreational and sporting choice, because anyone of any age can take part. It doesn’t matter whether it is cold or raining, as dancing is usually done indoors."
+        },
+        {
+          "type": "text",
+          "text": "The gear you need for dancing will depend on the style of dancing you choose. For example, tap dancing will involve buying tap shoes, whereas ballet will need ballet slippers and ballet clothing. To get started, simply choose a style you enjoy, or would like to try, look in the Yellow Pages or online for dance schools in your local area and join a class."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "30-Minute Mindful Cardio Workout with Strength Training and Cooldown",
+      "imageSrc": "https://images.pexels.com/photos/6455597/pexels-photo-6455597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "thirty_minutes",
+      "brief1": "Get into this high-energy strength training session that will challenge your mind and body. Join Gideon Akande for this workout that will focus on connecting to your breath while you get your sweat on with dynamic movements that will build your strength and confidence. ",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=QndOJ-cZ3n8"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Mindful cardio is unlike any class you’ve ever taken at the gym before in the sense that you dip in and out of a bunch of different exercises. Expect a mixture of cardio, strength training and regeneration – but above all, brain training. It’s been designed to get your heart and mind pumping in unison, treating the brain just like any other muscle in the body."
+        },
+        {
+          "type": "text",
+          "text": "Exercise is as much about the mind as it is the body. Mindful moments to yourself, whilst exercising, are important to get perspective on your thinking and connect mind with body. It’s about getting perspective on the thoughts that keep us from getting up and moving. Let them come and go; they’re just thoughts, and once we recognise our thoughts as that, they hold less power over us."
+        },
+        {
+          "type": "text",
+          "text": "Get used to the feeling for a couple of minutes and set your own pace. Be present in the body, be aware of how it feels, but not paying so much attention that you start changing how you naturally move. Find a state of flow."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "10 minute The Ultimate Arm and Shoulder Workout",
+      "imageSrc": "https://images.pexels.com/photos/863926/pexels-photo-863926.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "ten_minutes",
+      "brief1": "This workout is all about the upper body! Grab a set of light- to medium-sized weights, and get ready to tighten and tone the arms. Not only will this strength-training workout target the arms, chest, shoulders, and back, but it will also challenge your core and balance.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=EBQq6Fuhzt0"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Stronger arms make it easier to perform everyday tasks. Whether you're driving, carrying shopping bags, picking up kids, or even doing the laundry, daily living is that little bit easier when you've got powerful arms."
+        },
+        {
+          "type": "text",
+          "text": "Muscle burns more calories than fat so strong, toned arms can help you achieve weight loss. Arm exercises are also a fantastic way to strengthen and tone your core as your abdominal muscles engage when you perform the repetitions."
+        },
+        {
+          "type": "text",
+          "text": "Increased arm strength will increase results in any workouts - even exercises that focus on other body parts. From swimming and running to tennis and yoga, strong arms provide the balance and foundation to propel your results from good to great. Keeping your arms pumped up will also give you a healthy heart, according to the American Heart Association. Plus, strength training can boost bone density and keep your bones healthy - which is particularly important as you get older."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "20-Minute Strong and Sculpted Arm Workout With Jake DuPree ",
+      "imageSrc": "https://images.pexels.com/photos/3799377/pexels-photo-3799377.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "twenty_minutes",
+      "brief1": "Join Jake DuPree for an upper-body focused workout! Jake will challenge you with push-ups, triceps dips, and chest flys. You know Jake loves compound moves, so expect your core and lower body to also get worked during this session.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=o6CG3I2eSsA"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "This lower body and core strength workout includes a variety of exercises targeting the glutes, hips, thighs, abs, and back. The exercises are divided into tri-sets, although there are actually 4 exercises in each set, including three lower-body moves and one core move."
+        },
+        {
+          "type": "text",
+          "text": "  Techniques change from exercise to exercise and include slow, heavy training, fast-paced endurance exercises, and core moves that challenge balance, stamina, and stability. Intermediate and advanced exercisers will get the most out of this workout."
+        },
+        {
+          "type": "text",
+          "text": "See your doctor before trying this workout if you have any injuries, illnesses, or other conditions. You'll need various weighted dumbbells, a barbell, an exercise ball, a step or staircase, and a resistance band."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "30-Minute Strength Training Workout With Dumbbells",
+      "imageSrc": "https://images.pexels.com/photos/3888411/pexels-photo-3888411.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "thirty_minutes",
+      "brief1": "Get ready to work hard and feel strong with this strength-training workout from Barry's Bootcamp trainer and MoveWith coach Ingrid Clay. With moves like squat jumps, skaters, and tuck jump burpees, you will be sure to get your heart rate up!",
+      "brief2": " Grab a pair of 5-15 lb. weights, depending on where you are in your fitness journey.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=fjzdyBWx9AI"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "The American College of Sports Medicine recommends adults get in at least two days of full-body strength training per week, and according to Edwards, Fitness Director and Professional Fitness Trainer at Cooper Fitness Center in Dallas, dumbbells provide an easy means to accomplish this. “They can be used for any multi-joint movement that targets major muscle groups of the body—such as squats and chest presses,” she explains."
+        },
+        {
+          "type": "text",
+          "text": "Dumbbells can be used in a variety of upper and lower body and core exercises, and they’re also a convenient option because they can be used pretty much anywhere: the gym, home, and even outdoors. “Dumbbells don’t require any setup – just grab and move,” says Edwards."
+        },
+        {
+          "type": "text",
+          "text": "They’re easily transported, don’t take up much room, and if using two is too much, just drop one and keep going. When you have access to a set of dumbbells, the sky’s the limit on your choices of exercises and workouts."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "15-Minute Full-Body Strength-Training Workout",
+      "imageSrc": "https://images.pexels.com/photos/6551423/pexels-photo-6551423.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "fifteen_minutes",
+      "brief1": "Grab a set of weights, and let's tighten and tone from head to toe! Boxing & Bubbles creator Christa DiPaolo is bringing you four full-body weighted exercises with 30-second bodyweight burnouts in between to give you the perfect balance of strength training and cardio.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=i4GZvBKbylY"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Get ready to sculpt and feel the burn with moves like deadlifts to bicep curls, renegade row burpees, and squats with quarter-turn jumps! Be sure to warm up before this workout and finish this session with your postfight cooldown."
+        },
+        {
+          "type": "text",
+          "text": " Strength training may enhance your quality of life and improve your ability to do everyday activities. Strength training can also protect your joints from injury. Building muscle also can contribute to better balance and may reduce your risk of falls. This can help you maintain independence as you age."
+        },
+        {
+          "type": "text",
+          "text": "Strength training can reduce the signs and symptoms of many chronic conditions, such as arthritis, back pain, obesity, heart disease, depression and diabetes. Some research suggests that regular strength training and aerobic exercise may help improve thinking and learning skills for older adults."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "5-Minute Prefight Warmup With Christa DiPaolo",
+      "imageSrc": "https://images.pexels.com/photos/4429059/pexels-photo-4429059.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "five_minutes",
+      "brief1": "Take 5 to get your body warm and mind right before your workout with this session from Boxing and Bubbles creator Christa DiPaolo. After you complete this warmup, you can begin your workout! Warmups generally involves doing your activity at a slower pace and reduced intensity.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=PdNn1CmWYBs"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Warming up helps prepare your body for aerobic activity. A warmup gradually revs up your cardiovascular system by raising your body temperature and increasing blood flow to your muscles. Warming up may also help reduce muscle soreness and lessen your risk of injury."
+        },
+        {
+          "type": "text",
+          "text": "Cooling down after your workout allows for a gradual recovery of preexercise heart rate and blood pressure. Cooling down may be most important for competitive endurance athletes, such as marathoners, because it helps regulate blood flow. Cooling down doesn't appear to help reduce muscle stiffness and soreness after exercise, but more research is needed."
+        },
+        {
+          "type": "text",
+          "text": "Although there's controversy about whether warming up and cooling down can prevent injuries, proper warmups and cool-downs pose little risk. Plus, they seem to give your heart and blood vessels a chance to ease into — and out of — an exercise session. So if you have the time, consider including a warmup and cool-down in your workout routine."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "10-Minute Strength Training Workout For Runners",
+      "imageSrc": "https://images.pexels.com/photos/6551485/pexels-photo-6551485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "duration": "ten_minutes",
+      "brief1": "We want to help keep all you runners on the road, so we created this short strength-training program just for you! This 10-minute workout targets areas vulnerable to injury when logging many miles, but we also put some core exercises, which will make you a more effiecient runner.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=3ZPdQgLchok"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "The more efficient you are, the speedier you will get. Fear not if you are new to strength training, we offer beginner variations on each of the moves. We suggest doing this workout once or twice a week — it makes a good warmup or cool down. "
+        },
+        {
+          "type": "text",
+          "text": "How often should I do strength training? If you are a runner and your goal is to improve your running performance, you should be doing strength training twice a week. Once a week is better than nothing, however, research and practice has shown that optimal strength training frequency is 2-3 times a week."
+        },
+        {
+          "type": "text",
+          "text": "How long should the workouts last? Depending on your current training schedule and your goals, your strength training sessions should last anywhere between 30 and 60 minutes. This is a good starting point, however, each strength training program needs to be customized to each individual."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "15-Minute Yoga Flow and Guided Meditation",
+      "imageSrc": "https://images.pexels.com/photos/8939961/pexels-photo-8939961.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "fifteen_minutes ",
+      "brief1": "If you are feeling stressed and need a break in your hectic schedule, join us for a yoga flow and guided meditation, led by Mel Douglas who is joined by Rebecca Watson. You’ll leave this workout feeling relaxed and mindful. Mel will be tracking her heart rate during her yoga flow.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=XcrD5FgVKPA"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "As this session concludes with a meditation, Mel will use the EDA Scan app on her Sense to check her body’s stress response during the session and notice the centering and calming effects of this practice."
+        },
+        {
+          "type": "text",
+          "text": "Meditation is a mind and body practice that can help you focus on your breath, find clarity, develop concentration, and enhance emotional positivity, which allows you to remain in the present moment. Meditation focuses on the interactions among the brain, mind, body, and behavior."
+        },
+        {
+          "type": "text",
+          "text": "What Are the Advantages of Using Guided Meditation vs. Meditating on Your Own? The advantage to guided meditations is that the narrator or teacher walks you through how to meditate, what to expect from your mind and body, and how you can apply what you learned in the meditation to your life. If your mind tends to wander during meditation, the guidance of an experienced teacher can help you focus and bring you back to the present moment."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "30-Minute No-Equipment Cardio Kickboxing Workout",
+      "imageSrc": "https://images.pexels.com/photos/4754143/pexels-photo-4754143.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "thirty_minutes",
+      "brief1": "Get ready to burn major calories with Eliza Shirazi, creator and founder of Kick It by Eliza. This high-intensity workout combines dance, fitness, and (of course) kickboxing. No equipment is needed, and all levels are welcome. Are you ready to kick it? Let's get started!",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=6oLg5fFe5ww"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "If you're stuck in a workout rut or looking for a motivating fitness routine, you might consider adding a high-energy kickboxing workout to the schedule. Kickboxing workouts combine martial arts techniques with heart-pumping cardio, which means you can get a total body workout and whip yourself into shape in no time."
+        },
+        {
+          "type": "text",
+          "text": "According to Dr. Rose Windale of Healthzine.org, kickboxing helps you release endorphins which will give your mood a boost and help you feel more confident. Endorphins will also make you feel happier and more positive for several hours after the workout."
+        },
+        {
+          "type": "text",
+          "text": "If you're suffering from posture problems and have poor coordination, you can strengthen your 'core' and improve your reflexes and coordination skills. The speedy punches and kicks in the kickboxing routine will give you a chance to focus your energy to execute each movement successfully."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "10-Minute Flat Belly Super Tabata Workout",
+      "imageSrc": "https://images.pexels.com/photos/209969/pexels-photo-209969.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "ten_minutes",
+      "brief1": "Tone your abs with this super tabata workout from Equinox trainer Raneir Pollard. This Tabata workout is great for a flat belly and only takes 10 Min to do. So if you have been struggling to get that flat belly, this is the perfect choice for you! (Laughing is is part of the workout too.) ",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=Ezm11Oxc7FA"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Tabata training was discovered by Japanese scientist Dr. Izumi Tabata and a team of researchers from the National Institute of Fitness and Sports in Tokyo. Tabata and his team conducted research on two groups of athletes."
+        },
+        {
+          "type": "text",
+          "text": "The first group trained at a moderate intensity level while the second group trained at a high-intensity level. The moderate intensity group worked out five days a week for a total of six weeks; each workout lasted one hour."
+        },
+        {
+          "type": "text",
+          "text": "The high-intensity group worked out four days a week for six weeks; each workout lasted four minutes and 20 seconds (with 10 seconds of rest in between each set). The results; Group 1 had increased their aerobic system (cardiovascular), but showed little or no results for their anaerobic system (muscle). Group 2 showed much more increase in their aerobic system than Group 1, and increased their anaerobic system by 28 percent. In conclusion, high-intensity interval training has more impact on both the aerobic and anaerobic systems."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "5-Minute Hip-Hop Dance Cardio",
+      "imageSrc": "https://melodica.ae/wp-content/uploads/2019/01/hip-hop-dance-classes.jpg",
+      "duration": "five_minutes",
+      "brief1": "Dance your way to a toned body with Barre Hop, a barre-based workout infused with hip-hop movements and music, created by Ericka Taylor. Hip hop dance is a fun and effective way to burn calories and get your heart pumping. This workout engages the entire body!",
+      "brief2": "Hip hop requires you to contract and expand the abdominal muscles in a series of quick but fluid movements. These motions work the upper and lower abs and the obliques and strengthen your entire core.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=QKV-KhMjOWA"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "If you’ve ever taken a hip hop dance class before, chances are you know what an awesome workout it is. In fact, many fitness enthusiasts say that hip hop is one of the best cardio workouts out there."
+        },
+        {
+          "type": "text",
+          "text": "Not only does this high energy dance class get the heart pumping, but it is a wonderful alternative to the typical types of fitness routines many of us are accustomed to. Similar to Zumba, hip hop has both aerobic and anaerobic benefits."
+        },
+        {
+          "type": "text",
+          "text": " This is because these classes increase your heart rate and get you breathing hard, while at the same time working to strengthen your thighs, glutes, calves, and other muscles throughout your whole body. Another bonus? Hip hop is a less impactful type of dance because it does not put as much weight and pressure on the feet and knees. Whether you are trying to find a group exercise class that fits with your schedule and will keep you coming back for more, or simply want to change up your typical gym routine, we encourage you to consider checking out a hip hop dance class."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "10-Minute Sexy, Sculpted Arms, Back and Shoulders Workout",
+      "imageSrc": "https://images.pexels.com/photos/3888355/pexels-photo-3888355.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "ten_minutes",
+      "brief1": "Grab a pair of free weights and get ready to work your arms, shoulders, and upper back. This workout will have you sculpted for summer! Working out your arms and shoulders has many benefits - it can increase your muscle strength and muscle tone.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=j4rTDdHr4TI"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Combining different muscle groups within a training session allows you to train them more than once a week. Quite commonly many people choose opposite muscles to be paired within the same workout such as shoulders and back."
+        },
+        {
+          "type": "text",
+          "text": "So, can you work out shoulders and back together? Yes, you can train shoulders and back on the same day.  Training shoulders and back is safe and effective and can lead to gains in both strength and mass when programmed properly.  When selecting shoulder and back exercises to target, you will need to consider your areas of weaknesses."
+        },
+        {
+          "type": "text",
+          "text": "Training shoulders and back muscles on the same day is safe. There is not anything inherently dangerous with training these muscle groups together. There are bodybuilders, powerlifters, and Olympic weightlifters who train these muscle groups together."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "40-Minute Lower-Body Burner Workout ",
+      "imageSrc": "https://images.pexels.com/photos/1300526/pexels-photo-1300526.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "fourty_minutes",
+      "brief1": "Grab some medium to heavy weights, and join group fitness instructor Raneir Pollard as he kicks your butt (in the best way) as you kick your legs. You'll use your weights for exercises like glute bridges and lunges and get your heart rate up with cardio exercises like skaters and skips to balance.",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=mJeEglM6Nj4"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": " Be prepared to work hard, but know there may be a dance break (or 2) and an extralong stretch at the end to reward your efforts. "
+        },
+        {
+          "type": "text",
+          "text": "If you want to stay fit and healthy and live a longer, more mobile and enjoyable life, you must keep your lower body strong. That's because 75% of the muscle in your body is below your waist, explains Dan Daly, coach, trainer and co-creator of the Equinox Group Swim Program EQXH2O in New York City. Bianca Spicer, an exercise physiologist and owner of Spicer Fitness in Atlanta, agrees that the strong muscles of the lower body are super important for overall health and wellness because they support the hips and pelvis"
+        },
+        {
+          "type": "text",
+          "text": "So, for every functional movement – walking, bending over, going up stairs, sitting or standing – you need a strong base to stabilize and support the rest of your body. People often don't think about the movements and effort it takes out of the body to be able to do simple things like step down off a small curb or walk 20 feet down a hallway until they themselves experience the inability to do that move, Spicer says."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "15-Minute Lower-Body Workout",
+      "imageSrc": "https://images.pexels.com/photos/4429141/pexels-photo-4429141.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "fifteen_minutes",
+      "brief1": "This 15-minute workout is the perfect way to get a quick burn while working out your lower-body muscles. Led by Sweat trainer Cass Olholm, you'll start with a warmup and go through a few quick rounds of exercises filled with squats, lunges, and exercises on the mat. ",
+      "brief2": "Recommended equipment: an exercise mat.",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=uZrFIUwoDhc"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Many people tend to ignore exercises that target lower body muscles, like calves or hamstrings, because it takes much longer to notice results in these areas. Arms and shoulders, on the other hand, tend to bulk up quickly when you train them regularly. But who wants big arm and chest muscles propped on skinny legs? If you’ve been neglecting your lower-half, here are some key benefits of building lower body strength."
+        },
+        {
+          "type": "text",
+          "text": "Some of the largest muscles are found in the hips, butt and legs. These foundational muscle groups are responsible for stabilizing your entire body. By strengthening your lower core, you’ll improve agility and balance. This means you’ll be able to avoid falls and injuries during workouts, and be more limber when going about your daily activities. Strengthen your lower body to avoid muscle imbalances, which will result in a more well-rounded workout."
+        },
+        {
+          "type": "text",
+          "text": "By dedicating just one or two days a week to lower body exercises, you’ll notice big improvements in your overall fitness levels."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "25-Minute No-Plank Ab Workout",
+      "imageSrc": "https://images.pexels.com/photos/4720528/pexels-photo-4720528.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "twentyfive_minutes",
+      "brief1": "Your instructor - Jake DuPree loves planks, but just in case you're over them, he put together a no-plank workout that will challenge your abs with exercises that incorporate light weights. You'll be on the mat the entire time, but Jake has a lot of moves in his arsenal!",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=UaWzWLXv2BU"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Abdominal exercises such as crunches or sit-ups do not specifically burn belly fat, but they can help the belly appear flatter and more toned. Other exercises that can help whittle the waistline and tone up the belly include bicycles, planks, and side planks. Pilates and yoga can work the core muscles – the muscles around your trunk and pelvis – and can also help the belly appear flatter."
+        },
+        {
+          "type": "text",
+          "text": "For overall weight loss – including burning belly fat – diet is as important, if not more so, than exercise. Eat fewer calories. By decreasing calorie intake by 500 per day, you will lose 1 pound a week. One way to eat fewer calories is to limit your fat intake. No more than 30% of your daily calorie intake should be fat calories."
+        },
+        {
+          "type": "text",
+          "text": "Avoid sugary foods such as candies, jellies and jams, honey, and syrups. These foods offer little nutritional value and tend to be converted to fat quickly."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "25-Minute Rumble No-Equipment Cardio-Boxing ",
+      "imageSrc": "https://images.pexels.com/photos/927437/pexels-photo-927437.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "twentyfive_minutes",
+      "brief1": "Get ready to box it out with Rumble! Founding trainer Dani Burrell and LA founding trainer Leila Leilani are going to lead you through six rounds of boxing and conditioning moves fueled by music. The benefits of boxing including boosts to your physical, mental health, and wellbeing!",
+      "brief2": "",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=sgwtp9mF8tI"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Boxing is a great source of cardio exercise, it gets your heart pumping and your lungs working harder so you burn more calories and reach a fat-burning threshold. Cardio exercise places additional stress on your body in a safe and managed way, which results in beneficial changes to the systems in your body to support this increased level of exercise. "
+        },
+        {
+          "type": "text",
+          "text": "Boxing is a fantastic sport for working almost every muscle in your body, so when you regularly train and eat a healthy balanced diet, you’ll work to reduce the fat and increase the muscle you carry. Regularly working out, especially cardio exercises like boxing training, helps to build up your stamina."
+        },
+        {
+          "type": "text",
+          "text": "The great thing about increased stamina and endurance is that it doesn’t just pay off in your boxing training, if you walk to work or find yourself running for the train in the morning you’ll see the benefits as you can do more without feeling worn out."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "5-Minute Core Workout For Runners",
+      "imageSrc": "https://images.pexels.com/photos/936094/pexels-photo-936094.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "duration": "five_minutes",
+      "brief1": "A core workout for runners! Designed for anyone wanting a flat stomach — and strong, sexy back muscles, you only need 5 minutes for this quick video workout that burns so good once you're done. You'll strengthen all the muscles around your abdominals, obliques, and spine.",
+      "brief2": "This workout is perfect to feel balanced the next time you're out for a long run!",
+      "description": [
+        {
+          "type": "video",
+          "videoSrc": "https://www.youtube.com/watch?v=_HYroVzhGzs"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://www.basic-fit.com/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dw1503aadf/images/redesign/promo-banner/BF_Website_CommercialBanner-1.png"
+        },
+        {
+          "type": "text",
+          "text": "Should you do core exercises before or after running? It’s a great idea to fire your glutes before running; wake them up with a bridge exercise and they’ll be more engaged when you’re running. However, you need to balance your energy output; if you’re going out for a long run you don’t want to add 30 minutes of core exercises before. "
+        },
+        {
+          "type": "text",
+          "text": "Why do runners need a strong core? The main benefit of core strength for runners is increased stabilization in the torso. Your core muscles (the chest, back, abs, and obliques) are what keep your torso upright when you run, and reduce “wobbling” when moving your arms and legs."
+        },
+        {
+          "type": "text",
+          "text": "Core strength allows the pelvis, hips, and lower back to work together more smoothly to expend less energy. Core strength also significantly improves balance, meaning that you recover quickly from missteps small and large."
+        }
+      ]
+    }
+  ],
+  "comments": []
+}

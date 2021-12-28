@@ -1,0 +1,64 @@
+.text-main {
+  text-align: center; /* center the child */
+}
+.text-main-h3 {
+  display: inline-flex; /* keep the background color wrapped tight */
+  padding: 5px;
+  font-size: 40px;
+  background-color: rgba(30, 58, 85, 0.587);
+  border-radius: 15px 15px 15px;
+  color: #ffffff;
+}
+.text-main-p {
+  display: inline-flex; /* keep the background color wrapped tight */
+  padding: 5px;
+  font-size: 20px;
+  background-color: rgba(30, 58, 85, 0.587);
+  border-radius: 15px 15px 15px;
+  color: #ffffff;
+}
+
+.form-block {
+  margin-top: 16px;
+  margin-left: 18px;
+}
+
+.card-title-heading {
+  margin-top: 10px;
+}
+
+.header {
+  color: #0b2994c0;
+}
+
+.center-text {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn-signin {
+  color: white;
+  background-color: #0b2994c0;
+}
+
+.text-main-paragraph {
+  margin-top: 16px;
+  justify-content: center;
+  border-left: 10rem solid rgba(255, 255, 255, 0);
+  border-right: 10rem solid rgba(255, 255, 255, 0);
+}
+
+.text-paragraph {
+  color: rgba(3, 9, 39, 0.596);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.end-page {
+  margin-bottom: 70px;
+}
+
+.support-img:hover {
+  transform: scale(1.05);
+}

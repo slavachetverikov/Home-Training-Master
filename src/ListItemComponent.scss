@@ -1,0 +1,35 @@
+.list-item {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fefb6663;
+  border: 1px solid #fecb666c;
+  border-radius: 15px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.list-item:hover {
+  transform: scale(1.05);
+}
+
+.btn-main {
+  width: 100%;
+}
+.list-item-img {
+  border-radius: 15px;
+}
+
+.link-desc {
+  text-decoration: none;
+  color: #000000b7;
+}
+
+.link-desc:hover {
+  color: #000000b7;
+  text-decoration: none;
+  cursor: pointer;
+}
