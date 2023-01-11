@@ -1,7 +1,10 @@
 import { CommentItem } from "./CommentItem";
 import { TrainingItem } from "./TrainingItem";
 
-export const DATA_URL = "http://localhost:4000";
+// export const DATA_URL = "http://localhost:4000";
+
+export const DATA_URL = "https://jsonserver-ebon.vercel.app";
+
 
 export class DataService {
   async getData(duration: string | null): Promise<TrainingItem[]> {
